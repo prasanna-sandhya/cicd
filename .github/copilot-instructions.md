@@ -1,0 +1,8 @@
+- [x] Project requirements clarified: Python FastAPI POST API, returns father/mother names for given name, example data for sandhya and akash.
+- [x] Project scaffolded: app/main.py, .env, requirements.txt, Dockerfile, README.md created.
+- [x] Project customized: API logic and example data implemented as requested.
+- [x] No VS Code extensions required for this project.
+- [ ] Compile the project: Install dependencies and run API to verify setup.
+- [ ] Create and run task: Not required for this simple API.
+- [ ] Launch the project: User can run locally or with Docker as per README.md.
+- [x] Documentation complete: README.md and copilot-instructions.md created and up to date.
