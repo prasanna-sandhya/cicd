@@ -20,12 +20,12 @@ app = FastAPI()
 
 # Example data
 FAMILY_DATA = {
-    "sandhya": {"father": "Govindh", "mother": "padma"},
-    "nagesh": {"father": "Govindh", "mother": "padma"},
-    "akash": {"father": "krishna reddy", "mother": "Jyothi"},
-    "hasini": {"father": "krishna reddy", "mother": "Jyothi"}
+    "sandhya": {"father": "Govindh", "mother": "Padma"},
+    "nagesh": {"father": "Govindh", "mother": "Padma"},
+    "akash": {"father": "Krishna reddy", "mother": "Jyothi"},
+    "hasini": {"father": "Krishna reddy", "mother": "Jyothi"},
+    "srushti": {"father": "Krishna", "mother": "Nandhini"}
 }
-
 class NameRequest(BaseModel):
     name: str
 
